@@ -12,6 +12,4 @@ https://dsmastery2026.hashnode.dev/python-the-snake-that-helps-you-grow
 - Docker/FastAPI → Kubernetes/Databricks
 - 5 E2E production projects
 
-**Day 2:** Lists code coming...
-
 **Goal:** College grad → production DS Engineer
