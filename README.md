@@ -2,7 +2,7 @@
 
 **2500-page ebook + 75hr videos coming**
 
-**Chapter 1: Python Intro** 
+**Day 1: Python Intro** 
 https://dsmastery2026.hashnode.dev/python-the-snake-that-helps-you-grow
 
 **Roadmap:**
